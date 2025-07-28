@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for full-st
 - Visit my **portfolio**: [Jas Portfolio](https://www.jasportfolio.com) to set up a meeting.
 
 ## 🔧 Technologies & Tools I Use:
-- **Backend**: Node.js, Express, REST API
+- **Backend**: Laravel, Wordpress CMS, REST API
 - **Frontend**: React, HTML, CSS
-- **Database**: MongoDB, PostgreSQL
+- **Database**: Mysql
 - **Tools**: Git, Docker, VS Code
 
 ---
