@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a backend developer with a passion for full-st
 - I’m looking to collaborate on a **team with clear goals and priorities**.
 
 ## 📫 How to contact me:
-- You can **email me** at: [jasdeveloper@example.com](mailto:jasdeveloper@example.com)
+- You can **email me** at: [devop.jas@gmail.com](mailto:devop.jas@gmail.com)
 - Visit my **portfolio**: [Jas Portfolio](https://www.jasportfolio.com) to set up a meeting.
 
 ## 🔧 Technologies & Tools I Use:
